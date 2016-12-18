@@ -1,0 +1,92 @@
+img.img-responsive.featured-image {
+    display: block;
+    width: 100%;
+    height: 300px;
+}
+
+.post_content p {
+    font-size: 17px !important;
+}
+.shortlinks {
+    font-size: 13px !important;
+}
+
+html {
+    height: 100%;
+
+}
+body {
+    height: 100%;
+    padding-bottom: 125px;
+    overflow-x: hidden;
+}
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+   position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #4e5d6c;
+}
+
+
+.navbar {
+
+	margin-bottom:0px;
+}
+
+.product_img{
+
+  height: 180px;
+    float: none;
+    display: table-cell;
+    vertical-align: middle;
+
+  }
+  .img-responsive{
+height:180px;
+
+  }
+
+  .product_heading a {
+    color: #ffffff;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a.fblogin 
+
+  {
+    display:block;
+    float: right;
+    width: 100px;
+    height: auto;
+    background-image: url('/cmsweb/img/fb.png');
+    padding : 43px 0 0 29px;
+}
+.profileimg{
+
+      margin: 4px 0 0 0;
+
+}
