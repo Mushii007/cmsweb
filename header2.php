@@ -65,7 +65,7 @@ echo "<title>".$sitename."</title>";
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/cmsweb/">Web CMS</a>
+      <a class="navbar-brand" href="/cmsweb/">Mobile CMS</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
